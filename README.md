@@ -1,6 +1,9 @@
 # Hoe-Boomerang
 MINECRAFTに農業用ブーメランを追加します。
 
+YouTubeの紹介動画
+https://www.youtube.com/watch?v=G1Bh6sujXbI&t=118s
+
 ## リソースパックの導入方法
 
 1. MINECRAFTの「設定」ボタンを押す
